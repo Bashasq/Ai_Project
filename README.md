@@ -79,6 +79,5 @@ optional arguments:
 - Make a bigger dataset
 ### 8. License
 
-[MIT License](LICENSE)
-© 2018 Hoàng Lê Hải Thanh (Thanh Hoang Le Hai) aka GhostBB
+SRMIST License
 
